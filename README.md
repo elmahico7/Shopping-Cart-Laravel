@@ -4,5 +4,4 @@ Download the zip file, extract it,
 copy and paste the shopping-cart folder into the xampp->htdocs folder, 
 create a database on phpmyadmin utf8-unicode-ci with the name laravel and upload the laravel.sql file
 on the browser hit-> localhost/shopping-cart/public 
-if you have problem with the calculation of the prices its because of the browser's cache. Use incognito
 Xampp version (7.2.27)
